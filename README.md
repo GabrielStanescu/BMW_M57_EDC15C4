@@ -2,7 +2,7 @@
 Remap project
 
 
-BMW 330d M57 184p
+BMW 330d M57 184ps
 
 
 
